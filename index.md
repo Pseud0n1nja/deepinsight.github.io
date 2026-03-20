@@ -7,10 +7,11 @@ permalink: /
 > Hello - I’m an investment analyst with a passion for AI/applied mathematics, deeply curious about DeepTech/AI/Blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack technology’s promise through first-principles analysis and data driven insights.
 
 
-- **Investment Research**
+- **Investment Theses and Research**
+  - <a href="https://www.papermark.com/view/cmmygqfn8000kk004qgi33id0" target="_blank" rel="noopener noreferrer">Deconstructing the AI Opportunity</a>
   - <a href="https://www.papermark.com/view/cmmyg8ye5000klb04tguc24cv" target="_blank" rel="noopener noreferrer">Circle : A Detailed Investment Thesis</a>
-  - <a href="https://www.papermark.com/view/cmd5d525w0004l404cwximps6" target="_blank" rel="noopener noreferrer">Investment Thesis – Pendle: Analysing DeFi’s Fixed‑Income Protocol</a>
-  - <a href="https://www.papermark.com/view/cmldyjhe20009l20421jvb7uf" target="_blank" rel="noopener noreferrer">AAVE : A Fundamental Valuation at Bear Market </a>
-  - <a href="https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv" target="_blank" rel="noopener noreferrer">Investment Memo: Pendle – Liquid Strategy</a>
-  - <a href="https://mirror.xyz/arp1t.eth/2gem5FofBEPz1sJfoTW0O_AXo6hVM6yZ3GvstnCR068" target="_blank" rel="noopener noreferrer">Investment Thesis – IO.Net: Analysing Decentralized Computing</a>
-  - <a href="https://www.papermark.com/view/cmd7klkks000cjs04yfyygltw" target="_blank" rel="noopener noreferrer">Investment Memo: STEPN</a>
+  - <a href="https://www.papermark.com/view/cmmng7ydv0001lc04a0brtvip" target="_blank" rel="noopener noreferrer">Decoding India’s Semiconductor Landscape</a>
+  - <a href="https://www.papermark.com/view/cmmx1qfqw0001ju04j7zcsxvl" target="_blank" rel="noopener noreferrer">Understanding the Compute Paradigm</a>
+  - <a href="https://www.papermark.com/view/cmmygoc85000el804ult0jt43" target="_blank" rel="noopener noreferrer">The Data Center Imperative in AI Era</a>
+  
+  
